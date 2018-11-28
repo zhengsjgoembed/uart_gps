@@ -1,0 +1,1 @@
+/home/flourier/work/gcctool/gcc-linaro-4.9-2015.02-3-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc -O2 -g -o ctrl_pnl ctrl_pnl.c udp_util.c serial.c uartinf.c confile.c
